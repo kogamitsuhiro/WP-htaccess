@@ -1,0 +1,4 @@
+# PHPの実行を防ぐ
+<Files *.php>
+deny from all
+</Files>
